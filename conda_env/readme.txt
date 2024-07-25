@@ -1,0 +1,1 @@
+osteoporosis.yml: Environment for Anaconda specifying compatible Python packages to run the code.
